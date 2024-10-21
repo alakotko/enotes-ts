@@ -1,6 +1,5 @@
 {
   "name": "enotes-ts",
-  "module": "index.ts",
   "type": "module",
   "scripts": {
     "test:e2e": "playwright test tests/e2e",

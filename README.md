@@ -29,14 +29,6 @@ bun test:e2e
 bun test:api
 ```
 
-## Running the Project
-
-To run the main project:
-```bash
-bun run index.ts
-```
-
-
 ## Project Structure
 
 - `src/`: Contains the main source code (not visible in the provided snippets)
